@@ -1,0 +1,1 @@
+# Recognition-of-Handwritten-Telugu-Characters-from-Time-Series-Data-of-pen-strokes
